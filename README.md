@@ -1,6 +1,7 @@
 # figma
 
-A new Flutter project.
+A new Flutter project. Front end design done from a figma. 
+Have a Home page,Calendar page, Project page and a Profile page.
 
 ## Getting Started
 
